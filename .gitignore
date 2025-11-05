@@ -1,0 +1,16 @@
+# Archivos de compilación
+*.class
+
+# Carpetas de entorno
+/bin/
+/build/
+
+# Archivos de configuración de IDE
+*.log
+*.iml
+.idea/
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
